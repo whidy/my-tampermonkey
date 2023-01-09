@@ -2,11 +2,12 @@
 // @name         hack csdn more btn
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  令人讨厌的CSDN查看更多按钮，破解，自动点击。
-// @author       You
+// @description  令人讨厌的CSDN查看更多按钮，破解，自动点击。2023年01月09日
+// @author       Whidy
 // @match        https://blog.csdn.net/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=csdn.net
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
